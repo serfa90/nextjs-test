@@ -1,0 +1,13 @@
+.button {
+  display: block;
+  width: 150px;
+  margin: 0px auto 10px;
+
+  border-radius: 4px;
+
+  background-color: #2b2b2b;
+
+  box-shadow: 0 3px 20px 0 grey;
+
+  text-align: center;
+}
