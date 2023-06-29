@@ -17,7 +17,7 @@ export default function Home() {
       <Sidebar />
       <div style={{ marginLeft: '50px', padding: '100px 0', overflowY: 'scroll', height: '100vh', width:'100%'  }}>
         <h1 className={styles.title}>
-          Read <Link href="/posts/first-post">this page!</Link>
+          Read <Link href="/posts/first-post">this page</Link> or <Link href="/posts/second-page">this one!</Link>
         </h1>
         <InfoContainer />
         <TestButton />
